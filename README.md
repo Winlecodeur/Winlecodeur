@@ -1,6 +1,6 @@
--👋 Hi, I’m Win – a passionate and skilled developer**  
+-👋 Hi, I’m Win – a passionate and skilled developer
 -💻 I specialize in coding and thrive on solving complex problems
--🌱 Currently enhancing my expertise in Python/Django, node js and react js for high-performance solutions**  
+-🌱 Currently enhancing my expertise in Python/Django, node js and react js for high-performance solutions 
 -🤝 Open to collaborating with talented developers worldwide on innovative projects**  
   
 
